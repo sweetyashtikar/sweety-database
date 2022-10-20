@@ -1,0 +1,9 @@
+post  http://localhost:4000/app/signup
+Content-Type: :application/json
+
+{
+    "fullname":"sweety",
+    "username":"sweety",
+    "email":"sweety@gmail.com",
+    "password":"sweety"
+}
